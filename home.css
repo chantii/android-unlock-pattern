@@ -1,0 +1,8 @@
+body{ background-color: white; }
+canvas{
+    position: absolute,
+    border:3px solid blue;
+}
+#canvas2{
+    position: absolute,
+}
